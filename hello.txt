@@ -3,5 +3,8 @@ nice
 to
 meet
 you
+<<<<<<< HEAD
 how
 are
+=======
+>>>>>>> parent of 66f72f6 (edit hello.txt)
