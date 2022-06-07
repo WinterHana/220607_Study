@@ -6,6 +6,8 @@
 
 ~~취소선~~
 
+~~공부하기 싫다~~
+
 # This is a H1
 ## This is a H2
 ### This is a H3
